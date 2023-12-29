@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "react_jobs_app",
-    "slug": "react_jobs_app"
+    "slug": "react_jobs_app",
+    "extra": {
+      "eas": {
+        "projectId": "72ad171b-7e6c-4e2f-ab23-a1108a21e48b"
+      }
+    },
+    "android": {
+      "package": "com.vijay_talakola.react_jobs_app"
+    }
   }
 }
